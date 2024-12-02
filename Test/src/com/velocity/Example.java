@@ -8,7 +8,6 @@ public class Example {
 		int c = a - b;
 		System.out.println("Value of a >> " + a);
 		System.out.println("Value of b >> " + b);
-		System.out.println("Subtraction is >> " + c);
 
 	}
 }
